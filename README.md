@@ -1,4 +1,5 @@
-Objectives:
+# Objectives:
+
 After reading this blog, you’ll be able to:
 
 * Data Binding in a template
@@ -8,13 +9,13 @@ After reading this blog, you’ll be able to:
 * Configure a lightning web component for Lightning App Builder
 and much more
 
-1.how to display the following logged-in user information on a lightning web component:
+# how to display the following logged-in user information on a lightning web component:
 
-# User Id
-# Full Name
-# Role
-# Profile
-# Manager Name
+* User Id
+* Full Name
+* Role
+* Profile
+* Manager Name
 Similar to the following screenshot: 
 
 ![image](https://github.com/logesgithub/UseridLWC/assets/113974467/ebfe03b9-9213-4665-a8a5-38ef6eb7b76b)
